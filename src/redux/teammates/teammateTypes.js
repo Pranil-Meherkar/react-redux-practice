@@ -1,0 +1,1 @@
+export const TEAMMATE_LOST = "TEAMMATE_LOST";
